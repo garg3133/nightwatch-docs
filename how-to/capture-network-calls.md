@@ -29,6 +29,7 @@ All you need to do is call the `browser.captureNetworkCalls()` command with the 
    </tr>
   </thead>
   <tbody>
+    <tr>
       <td>`timestamp`</td>
       <td>number</td>
       <td>Time at which the network call was made.</td>
